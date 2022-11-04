@@ -1,7 +1,6 @@
-I fixed the scripts.
+Credit: @therealgliz
 
 
+I cloned the repo and removed the watermark on the commands.
 
-To use the hacks, copy them. Then, in Blooket type `<b>javascript:</b>` in the url then paste it after that.
-
-When it is pasted just click enter
+<b>To use:</b> 
