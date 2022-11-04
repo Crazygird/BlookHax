@@ -3,7 +3,9 @@
 
 I cloned the repo and removed the watermark on the commands.</i>
 
-<b>To use:</b> click a folder then click the `copy button`
+To use: click a folder then click the `copy button`
 
 
-<b>After you are in blooket:</b> go into the <b>url</b> and type `javascript:` 
+After you are in blooket: go into the <b>url</b> and type `javascript:` then paste the code after that.
+
+When you are done hit `enter` and it should show a popup
